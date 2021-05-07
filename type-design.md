@@ -9,7 +9,12 @@ Editeurs de fontes sous licence libre:
 
 - FontForge : https://fontforge.org/
 
-Un manuel sur la conception de fontes avec FontForge: http://designwithfontforge.com/fr-FR/index.html
+## Guides d'utilisation
+
+- Un manuel sur la création de fontes avec FontForge: http://designwithfontforge.com/fr-FR/index.html
+- "Fontes libres", guide pour la création de fontes avec FontForge: https://fr.flossmanuals.net/fontes-libres/introduction/
+
+Ces guides sont focalisés sur le logiciel FontForge, mais donnent également des informations utiles pour la conception de fontes avec d'autres logiciels.
 
 ## Autres éditeurs libres:
  
