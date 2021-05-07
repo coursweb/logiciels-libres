@@ -11,7 +11,7 @@ Editeurs de fontes sous licence libre:
 
 Un manuel sur la conception de fontes avec FontForge: http://designwithfontforge.com/fr-FR/index.html
 
-Autres éditeurs libres:
+## Autres éditeurs libres:
  
 - Glyphr Studio - https://www.glyphrstudio.com/
 - BirdFont - https://birdfont.org/
