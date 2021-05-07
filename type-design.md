@@ -1,3 +1,8 @@
+---
+layout: page
+title: Conception de fontes typographiques
+---
+
 # Conception de fontes typographiques
 
 Editeurs de fontes sous licence libre:
